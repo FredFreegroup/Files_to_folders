@@ -1,0 +1,14 @@
+D:\fred\Files_to_folders\Files_to_folders\bin\Debug\Files_to_folders.exe.config
+D:\fred\Files_to_folders\Files_to_folders\bin\Debug\Files_to_folders.exe
+D:\fred\Files_to_folders\Files_to_folders\bin\Debug\Files_to_folders.pdb
+D:\fred\Files_to_folders\Files_to_folders\bin\Debug\Files_to_folders.xml
+D:\fred\Files_to_folders\Files_to_folders\obj\x86\Debug\Files_to_folders.Form1.resources
+D:\fred\Files_to_folders\Files_to_folders\obj\x86\Debug\Files_to_folders.Resources.resources
+D:\fred\Files_to_folders\Files_to_folders\obj\x86\Debug\Files_to_folders.vbproj.GenerateResource.Cache
+D:\fred\Files_to_folders\Files_to_folders\obj\x86\Debug\Files_to_folders.exe
+D:\fred\Files_to_folders\Files_to_folders\obj\x86\Debug\Files_to_folders.xml
+D:\fred\Files_to_folders\Files_to_folders\obj\x86\Debug\Files_to_folders.pdb
+D:\fred\Files_to_folders\Files_to_folders\bin\Debug\Files_to_folders.exe.manifest
+D:\fred\Files_to_folders\Files_to_folders\bin\Debug\Files_to_folders.application
+D:\fred\Files_to_folders\Files_to_folders\obj\x86\Debug\Files_to_folders.exe.manifest
+D:\fred\Files_to_folders\Files_to_folders\obj\x86\Debug\Files_to_folders.application
